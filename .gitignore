@@ -1,0 +1,5 @@
+# Ignore scratch and temporary files
+scratch/
+*.tmp
+*.log
+.DS_Store
