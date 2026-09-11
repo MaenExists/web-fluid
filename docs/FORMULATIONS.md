@@ -48,34 +48,29 @@ This catalog documents the exact preparation protocols, confirmed working versio
 ---
 
 ### `web-fluid-1.3` [THEORIZED]
-*Nitrocellulose (NC) Rigid Rebar Composite*
+*Fevibond + Natural Gum Rosin (Tack & Cohesive Strength)*
 
-- **Status:** Theorized High-Strength Candidate
-- **Objective:** Introduce ultra-rigid cellulosic backbone into the Fevibond rubber base to eliminate sagging and maximize tensile yield strength ($80\text{–}100\text{ MPa}$).
-- **Polymer Blend:** Fevibond Synthetic Rubber + Nitrocellulose (NC Resin)
-- **Solvent:** Thinner SP-85
-- **Predicted Properties:** Instant in-flight flash setting; rigid, non-drooping, high-tensile web strands.
+- **Status:** Safe Candidate
+- **Objective:** Add $3\text{–}5\%$ dissolved Natural Pine Rosin to the SP-85 thinner before blending with Fevibond.
+- **Expected Result:** Instant target adhesion upon impact, higher internal strand cohesion, zero health hazards.
 
 ---
 
 ### `web-fluid-1.4` [THEORIZED]
-*Thermoplastic Polyurethane (TPU) Elastomer Alloy*
+*Micro-Cellulose Flocking Composite (Mechanical Rebar)*
 
-- **Status:** Theorized High-Toughness Candidate
-- **Objective:** Double tensile strength ($40\text{–}70\text{ MPa}$) while retaining $500\%$ elongation and extreme tear resistance.
-- **Polymer Blend:** Fevibond Synthetic Rubber + Thermoplastic Polyurethane (TPU)
-- **Solvent:** Thinner SP-85 / Ketone blend
-- **Predicted Properties:** Extreme energy absorption, zero brittle points, high load-bearing capacity.
+- **Status:** Safe Candidate
+- **Objective:** Disperse microscopic cotton fibers ($50\text{–}100\,\mu\text{m}$) into the liquid to align along the jet stream during atomization.
+- **Expected Result:** Physical rebar effect; multiplies tensile breaking strength by $200\%\text{–}400\%$ without chemical hazards.
 
 ---
 
 ### `web-fluid-1.5` [THEORIZED]
-*Polyisocyanate Chemical Vulcanization System*
+*Clear Acrylic (PMMA) + Rubber Alloy*
 
-- **Status:** Theorized Reactive Crosslinking Candidate
-- **Objective:** 2-part chemical reaction converting liquid neoprene rubber into 3D covalently cross-linked vulcanized rubber upon atomization.
-- **Additive:** $3\text{–}5\%$ Polyisocyanate Crosslinker (Desmodur / MDI) added to `web-fluid-1.2` bath.
-- **Predicted Properties:** Exponential boost in tensile modulus, chemical bonding, and structural strength.
+- **Status:** Safe Candidate
+- **Objective:** Dissolve clear acrylic shavings into SP-85 thinner, then blend with Fevibond.
+- **Expected Result:** High tensile strength ($70\text{ MPa}$ backbone) without the brittleness/crumbling of thermocol.
 
 ---
 
