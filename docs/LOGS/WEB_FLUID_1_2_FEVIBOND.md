@@ -1,38 +1,33 @@
-# Experiment Log: web-fluid-1.2 (Fevibond Synthetic Rubber + SP-85 Thinner)
+# Optimizing web-fluid-1.2 (Active Bench Protocol)
 
 ---
 
-## 1. System Parameters & Chemistry
-- **Formulation Name:** `web-fluid-1.2`
-- **Polymer Base:** Fevibond (Synthetic Polychloroprene / Neoprene Rubber Contact Adhesive)
-- **Solvent:** Thinner SP-85
-- **Hardware:** Standard plastic spray bottle atomizer
-- **Preparation Method (Two-Step Dilution):**
-  1. **Base Fluid:** Mixed Fevibond into Thinner SP-85 until the liquid reached a viscosity approximately $20\%\text{–}30\%$ thicker than water.
-  2. **Atomizer Charge:** Loaded the base fluid into the spray bottle and added fresh Thinner SP-85 in a **$40:60$ ratio** ($40\%$ base fluid, $60\%$ SP-85 thinner). Blended uniformly.
+## Current Status: `web-fluid-1.2`
+- **Materials:** Fevibond Rubber Adhesive + Thinner SP-85 + Plastic Spray Bottle.
+- **Confirmed Result:** Successfully formed flexible, non-brittle airborne web strands.
 
 ---
 
-## 2. Experimental Observations & Results
-- **Solubility & Mixing:** Fevibond dissolved cleanly into Thinner SP-85 into a stable, homogeneous solution without clumping or phase separation.
-- **Spray & Web Formation:**
-  - When pumped through the plastic atomizer, the fluid successfully formed airborne, web-like strands in mid-air.
-  - Filament structure formed reliably across the spray stream, matching the web-like visual pattern seen in `web-fluid-1.0`.
-- **Mechanical Performance:**
-  - **Ductility / Non-Brittle:** Unlike the polystyrene strands from 1.0, the strands did **not** crumble or turn into powdery dust upon handling.
-  - **Toughness:** Stays flexible and intact, demonstrating solid potential to be engineered for load-bearing tensile strength.
+## 🎯 Direct Bench Levers to Better `web-fluid-1.2` Right Now
+
+We do not add new materials yet. We maximize the strength and performance of `web-fluid-1.2` using three direct adjustments:
+
+### Adjustment 1: Rubber Concentration Push (Thicker, Stronger Strands)
+The initial test used a **40:60 ratio** ($40\%$ Fevibond base : $60\%$ thinner). 
+If the web strands are too thin or lightweight, we increase the rubber density in the spray bottle:
+- **Test Step A:** Increase to **50:50 ratio** ($50\%$ Fevibond base : $50\%$ thinner).
+- **Test Step B:** Increase to **60:40 ratio** ($60\%$ Fevibond base : $40\%$ thinner).
+- **Goal:** Find the thickest rubber stream the spray bottle can push before it clogs. More rubber = thicker, stronger strands.
 
 ---
 
-## 3. Scientific Analysis: Why 1.2 Outperformed 1.0
-1. **Glass Transition ($T_g$):**
-   - Polystyrene (`web-fluid-1.0`): $T_g \approx +100^\circ\text{C}$ $\rightarrow$ rigid glass at room temperature.
-   - Neoprene / Fevibond (`web-fluid-1.2`): $T_g \approx -40^\circ\text{C}$ $\rightarrow$ flexible elastomer at room temperature.
-2. **Chain Strain Crystallization:**
-   - As the rubber jet exits the nozzle and stretches in flight, the polymer chains partially align along the flight axis, giving the strands inherent tensile elasticity instead of brittle fracture.
+### Adjustment 2: Nozzle Cap Tuning (Stream vs. Mist)
+A standard spray bottle nozzle cap adjusts how wide or focused the spray is:
+- **Tight Cap:** Produces a wide mist (weak, scattered web).
+- **Loosened Cap (1/4 to 1/2 turn):** Switches the nozzle from wide mist to a **focused stream**.
+- **Goal:** Force the fluid into a concentrated stream so the airborne strands tangle into a single thick web cable instead of scattering.
 
 ---
 
-## 4. Next Scientific Optimization Gates
-- **`web-fluid-1.3`:** Test ratio variations (e.g., $50:50$ and $60:40$ base:thinner) to discover if we can produce thicker, higher-tensile strands without causing the nozzle to clog.
-- **Tensile Benchmark:** Perform a fixed-gap hang test with `web-fluid-1.2` to measure how many grams it can support before failure.
+### Adjustment 3: Spray Distance & Velocity
+- **Test at 30 cm vs. 60 cm vs. 100 cm:** Find the exact flight distance where the thinner flashes off completely in mid-air, leaving a dry, high-strength web when it lands.
