@@ -44,31 +44,37 @@ This catalog documents the exact preparation protocols, confirmed working versio
 - **Observed Behavior:**
   - Sprays into cohesive, airborne web-like strands similar in appearance to 1.0.
   - **Major Improvement:** **Non-brittle, flexible, and ductile**. The strands do not crumble into dust when handled and exhibit clear potential for tensile strength.
-  - **Scientific Mechanism:** Fevibond’s synthetic neoprene rubber has a glass transition temperature far below room temperature ($T_g \approx -40^\circ\text{C}$), allowing the polymer chains to flex and stretch instead of shattering.
+  - **Scientific Mechanism:** Fevibond’s synthetic neoprene rubber has a sub-ambient glass transition temperature ($T_g \approx -40^\circ\text{C}$), allowing the polymer chains to flex and stretch instead of shattering.
 
 ---
 
 ### `web-fluid-1.3` [THEORIZED]
-*Concentrate-to-Thinner Ratio Tuning (Thicker Strands)*
+*The Rubber-Thermocol Alloy (Biomimetic Silk Architecture)*
 
-- **Status:** Ready for Bench Testing
-- **Objective:** Test if increasing the base concentrate ratio creates thicker, tougher strands without clogging the spray nozzle.
-- **Polymer Base:** Fevibond Synthetic Rubber
-- **Solvent:** Thinner SP-85
-- **Proposed Dilution Tests:**
-  - **Ratio A (Lean - 30:70):** $30\%$ Base Fluid : $70\%$ Thinner SP-85 (checks lower limit; expect fine cobwebs, high spray velocity).
-  - **Ratio B (Current Baseline - 40:60):** The confirmed working `web-fluid-1.2` standard.
-  - **Ratio C (Rich - 50:50):** $50\%$ Base Fluid : $50\%$ Thinner SP-85 (tests for thicker, rope-like web strands).
-  - **Ratio D (Heavy - 60:40):** $60\%$ Base Fluid : $40\%$ Thinner SP-85 (tests maximum viscosity limit before nozzle clogging).
+- **Status:** Formulated / Next Immediate Test Candidate
+- **Objective:** Bridge the gap between rubber flexibility and structural stiffness. Add rigid molecular backbone to stop the web from sagging and dramatically increase breaking strength.
+- **Formula Components:**
+  - **Component A:** Fevibond Base Concentrate ($80\%$ of polymer volume)
+  - **Component B:** Thermocol Base Concentrate ($20\%$ of polymer volume)
+  - **Solvent:** Thinner SP-85 (diluted to standard $40:60$ spray viscosity)
+- **Preparation Protocol:**
+  1. Prepare standard Fevibond Base Concentrate (SP-85 + Fevibond).
+  2. Prepare standard Thermocol Base Concentrate (SP-85 + Thermocol).
+  3. Combine **$4\text{ parts}$ Fevibond Base** with **$1\text{ part}$ Thermocol Base** ($80:20$ ratio).
+  4. Dilute this hybrid base $40:60$ with fresh Thinner SP-85 in the spray bottle.
+- **Predicted Mechanism:** As solvent flashes in mid-air, the polystyrene phase-separates into rigid nano-domains inside the rubber matrix, mimicking the hard $\beta$-sheet crystals in natural spider silk.
 
 ---
 
 ### `web-fluid-1.4` [THEORIZED]
-*Rubber-Polystyrene Hybrid (High-Modulus Alloy)*
+*Micro-Fibril Composite Web*
 
-- **Status:** Research Concept
-- **Objective:** Blend a small amount of thermocol base fluid into the Fevibond base fluid (e.g., $85\%$ Fevibond base + $15\%$ Thermocol base, diluted $40:60$ with SP-85).
-- **Goal:** Use polystyrene as a rigid skeletal backbone to give the rubber web higher tensile stiffness without making it brittle.
+- **Status:** Advanced Research Candidate
+- **Objective:** Multiply axial tensile strength by $300\%\text{–}500\%$ via hydrodynamically-aligned microfibers.
+- **Formula Components:**
+  - Base: `web-fluid-1.2` or `1.3`
+  - Reinforcement: Dispersed micro-cellulose fibrils ($0.5\text{–}1.0\text{ wt\%}$)
+- **Mechanism:** Shear forces through the nozzle align the microscopic fibers along the strand axis, turning each strand into a composite fiber-reinforced rope.
 
 ---
 
