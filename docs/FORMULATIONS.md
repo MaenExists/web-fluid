@@ -18,7 +18,7 @@ This catalog documents the exact preparation protocols, confirmed working versio
 ### `web-fluid-1.0` [WORKING]
 *The Glassy Polymer Baseline (Proof-of-Concept)*
 
-- **Status:** Validated / Baseline
+- **Status:** Validated / Retired Baseline
 - **Polymer Base:** Polystyrene (Thermocol / Expanded Polystyrene)
 - **Solvent:** Thinner SP-85
 - **Hardware:** Plastic spray bottle atomizer
@@ -44,37 +44,38 @@ This catalog documents the exact preparation protocols, confirmed working versio
 - **Observed Behavior:**
   - Sprays into cohesive, airborne web-like strands similar in appearance to 1.0.
   - **Major Improvement:** **Non-brittle, flexible, and ductile**. The strands do not crumble into dust when handled and exhibit clear potential for tensile strength.
-  - **Scientific Mechanism:** Fevibond’s synthetic neoprene rubber has a sub-ambient glass transition temperature ($T_g \approx -40^\circ\text{C}$), allowing the polymer chains to flex and stretch instead of shattering.
 
 ---
 
 ### `web-fluid-1.3` [THEORIZED]
-*The Rubber-Thermocol Alloy (Biomimetic Silk Architecture)*
+*Nitrocellulose (NC) Rigid Rebar Composite*
 
-- **Status:** Formulated / Next Immediate Test Candidate
-- **Objective:** Bridge the gap between rubber flexibility and structural stiffness. Add rigid molecular backbone to stop the web from sagging and dramatically increase breaking strength.
-- **Formula Components:**
-  - **Component A:** Fevibond Base Concentrate ($80\%$ of polymer volume)
-  - **Component B:** Thermocol Base Concentrate ($20\%$ of polymer volume)
-  - **Solvent:** Thinner SP-85 (diluted to standard $40:60$ spray viscosity)
-- **Preparation Protocol:**
-  1. Prepare standard Fevibond Base Concentrate (SP-85 + Fevibond).
-  2. Prepare standard Thermocol Base Concentrate (SP-85 + Thermocol).
-  3. Combine **$4\text{ parts}$ Fevibond Base** with **$1\text{ part}$ Thermocol Base** ($80:20$ ratio).
-  4. Dilute this hybrid base $40:60$ with fresh Thinner SP-85 in the spray bottle.
-- **Predicted Mechanism:** As solvent flashes in mid-air, the polystyrene phase-separates into rigid nano-domains inside the rubber matrix, mimicking the hard $\beta$-sheet crystals in natural spider silk.
+- **Status:** Theorized High-Strength Candidate
+- **Objective:** Introduce ultra-rigid cellulosic backbone into the Fevibond rubber base to eliminate sagging and maximize tensile yield strength ($80\text{–}100\text{ MPa}$).
+- **Polymer Blend:** Fevibond Synthetic Rubber + Nitrocellulose (NC Resin)
+- **Solvent:** Thinner SP-85
+- **Predicted Properties:** Instant in-flight flash setting; rigid, non-drooping, high-tensile web strands.
 
 ---
 
 ### `web-fluid-1.4` [THEORIZED]
-*Micro-Fibril Composite Web*
+*Thermoplastic Polyurethane (TPU) Elastomer Alloy*
 
-- **Status:** Advanced Research Candidate
-- **Objective:** Multiply axial tensile strength by $300\%\text{–}500\%$ via hydrodynamically-aligned microfibers.
-- **Formula Components:**
-  - Base: `web-fluid-1.2` or `1.3`
-  - Reinforcement: Dispersed micro-cellulose fibrils ($0.5\text{–}1.0\text{ wt\%}$)
-- **Mechanism:** Shear forces through the nozzle align the microscopic fibers along the strand axis, turning each strand into a composite fiber-reinforced rope.
+- **Status:** Theorized High-Toughness Candidate
+- **Objective:** Double tensile strength ($40\text{–}70\text{ MPa}$) while retaining $500\%$ elongation and extreme tear resistance.
+- **Polymer Blend:** Fevibond Synthetic Rubber + Thermoplastic Polyurethane (TPU)
+- **Solvent:** Thinner SP-85 / Ketone blend
+- **Predicted Properties:** Extreme energy absorption, zero brittle points, high load-bearing capacity.
+
+---
+
+### `web-fluid-1.5` [THEORIZED]
+*Polyisocyanate Chemical Vulcanization System*
+
+- **Status:** Theorized Reactive Crosslinking Candidate
+- **Objective:** 2-part chemical reaction converting liquid neoprene rubber into 3D covalently cross-linked vulcanized rubber upon atomization.
+- **Additive:** $3\text{–}5\%$ Polyisocyanate Crosslinker (Desmodur / MDI) added to `web-fluid-1.2` bath.
+- **Predicted Properties:** Exponential boost in tensile modulus, chemical bonding, and structural strength.
 
 ---
 
